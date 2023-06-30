@@ -125,6 +125,9 @@ showStatus(){
 
 }
 
+
+
+
 // Iteration 5
 
 // if the Saxon array is empty, should return "Vikings have won the war of the century!"
